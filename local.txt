@@ -2,3 +2,6 @@ I am writing this on my own computer. locally
 
 
 I am writing this from github. remote
+
+
+using smart i will push you . now i am on my own computer . locally 
